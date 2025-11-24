@@ -21,21 +21,22 @@ Este proyecto es mezcla los siguientes temas:
 ## Estructura del Repositorio
 
 ├── Notebooks/
-│   ├── 01_preparacion_y_eda.dbc
-│   ├── 02_entrenamiento_y_tracking.dbc
-│   ├── 03_registro_y_carga_modelo.dbc
-│   ├── 10_rag_ingesta_y_chunking.dbc
-│   ├── 11_rag_embeddings.dbc
-│   ├── 12_rag_retrieval_y_llm.dbc
-│   ├── 20_escenarios_soporte.dbc
-│   └── (otros notebooks opcionales)
+
+- 01_preparacion_y_eda.dbc
+- 02_entrenamiento_y_tracking.dbc
+- 03_registro_y_carga_modelo.dbc
+-  10_rag_ingesta_y_chunking.dbc
+- 11_rag_embeddings.dbc
+-  12_rag_retrieval_y_llm.dbc
+-  20_escenarios_soporte.dbc
+│ 
 │
 ├── Datos/
-│   ├── telco_churn.csv
+-  telco_churn.csv
 │   
 │
 ├── Documentos Azure/
-│   ├── documento_azure.pdf (Utilizado para el RAG)
+- documento_azure.pdf (Utilizado para el RAG)
 │   
 │
 └── README.md
