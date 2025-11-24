@@ -72,6 +72,7 @@ Ejecuta los notebooks en el siguiente orden:
 
 20_escenarios_soporte
 
+**Nota:** El codigo se encuentra documentado para una facil ejecución
 
 ## Reflexión final
 
@@ -83,7 +84,7 @@ Este proyecto muestra la capacidad de:
 
 - Montar un pipeline RAG completo (sencillo) con recuperación real.
 
-Diagnosticar y corregir fallas típicas de operación (schema drift, endpoints, embeddings, UDFs, MLflow).
+- Diagnosticar y corregir fallas típicas de operación (schema drift, endpoints, embeddings, UDFs, MLflow).
 
 El foco siempre fue el mismo **hacer que las cosas funcionen, sin importar las limitantes.** 
 
