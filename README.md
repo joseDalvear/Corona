@@ -29,16 +29,15 @@ Este proyecto es mezcla los siguientes temas:
 - 11_rag_embeddings.dbc
 -  12_rag_retrieval_y_llm.dbc
 -  20_escenarios_soporte.dbc
-│ 
-│
+ 
+
 ├── Datos/
--  telco_churn.csv
-│   
-│
+-  telco_churn.csv   
+
 ├── Documentos Azure/
 - documento_azure.pdf (Utilizado para el RAG)
-│   
-│
+
+
 └── README.md
 
 
